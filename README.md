@@ -1,6 +1,7 @@
 # Boas vindas ao repositório do projeto WebChat!
 
-Nesse projeto foi desenvolvida uma aplicação Node.js de chat utilizando o socket.io para emitir eventos e atuailizar o estado no servidor e cliente
+Nesse projeto foi desenvolvida uma aplicação Node.js de chat utilizando o socket.io para emitir eventos e atuailizar o estado no servidor e cliente.
+
 O MVC foi usado para renderizar as mensagens do histórico e usuários online, com ambos vindo direto do servidor.
 
 ---
